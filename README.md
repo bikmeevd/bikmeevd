@@ -35,7 +35,7 @@ ISTQB foundation level ✔️.
 - **Technologies:** React, JS, JSON server.
 - **Demo:** https://react-quiz-vf0y.onrender.com/
 - **GitHub Repo:** https://github.com/bikmeevd/react-quiz
-
+## More info
 *   🌍  I'm based in Czech republic, Prague
 *   ✉️  You can contact me at [bikmeevd00@gmail.com](mailto:bikmeevd00@gmail.com)
 *   🧠  I'm learning React, node.js, JS
