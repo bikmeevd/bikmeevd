@@ -35,6 +35,13 @@ ISTQB foundation level ✔️.
 - **Technologies:** React, JS, JSON server.
 - **Demo:** https://react-quiz-vf0y.onrender.com/
 - **GitHub Repo:** https://github.com/bikmeevd/react-quiz
+
+### Project 5: WorldWise <span style="color: red;">(IN PROGRESS)</span>
+
+- **Description:** This app enables users to add cities they've visited, attach notes to each trip, and effortlessly navigate through an interactive map showcasing their worldly adventures.
+- **Technologies:** React, JS, react router JSON server.
+- **Demo:** https://worldwise-ze4r.onrender.com/
+- **GitHub Repo:** https://github.com/bikmeevd/worldwise
 ## More info
 *   🌍  I'm based in Czech republic, Prague
 *   ✉️  You can contact me at [bikmeevd00@gmail.com](mailto:bikmeevd00@gmail.com)
