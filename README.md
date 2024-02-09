@@ -32,14 +32,14 @@ ISTQB foundation level ✔️.
 ### Project 4: React-quiz
 
 - **Description:** This application provides users with a quiz to test their understanding of React concepts
-- **Technologies:** React, JS, JSON server.
+- **Technologies:** React, JS, reducer, context api, JSON server.
 - **Demo:** https://react-quiz-vf0y.onrender.com/
 - **GitHub Repo:** https://github.com/bikmeevd/react-quiz
 
-### Project 5: WorldWise <span style="color: red;">(IN PROGRESS)</span>
+### Project 5: WorldWise
 
 - **Description:** This app enables users to add cities they've visited, attach notes to each trip, and effortlessly navigate through an interactive map showcasing their worldly adventures.
-- **Technologies:** React, JS, react router JSON server.
+- **Technologies:** React, JS, react router, react-leaflet, context api, reducer, JSON server.
 - **Demo:** https://worldwise-ze4r.onrender.com/
 - **GitHub Repo:** https://github.com/bikmeevd/worldwise
 ## More info
