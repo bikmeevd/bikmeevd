@@ -39,7 +39,7 @@ ISTQB foundation level ✔️.
 ### Project 5: WorldWise
 
 - **Description:** This app enables users to add cities they've visited, attach notes to each trip, and effortlessly navigate through an interactive map showcasing their worldly adventures.
-- **Technologies:** React, JS, react router, react-leaflet, context api, reducer, JSON server.
+- **Technologies:** React, JS, react router, react-leaflet, context api, reducer, useCallback, lazy loading optimisation, JSON server.
 - **Demo:** https://worldwise-ze4r.onrender.com/
 - **GitHub Repo:** https://github.com/bikmeevd/worldwise
 ## More info
